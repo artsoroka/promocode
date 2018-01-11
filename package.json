@@ -1,0 +1,28 @@
+{
+  "name": "promocodes",
+  "version": "0.0.1",
+  "description": "promocode generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Artem Soroka <art.soroka@yahoo.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artsoroka/promocode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/artsoroka/promocode/issues"
+  },
+  "homepage": "https://github.com/artsoroka/promocode#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.4",
+    "mysql": "^2.15.0",
+    "node-schedule": "^1.3.0",
+    "random-string": "^0.2.0",
+    "request": "^2.83.0"
+  }
+}
